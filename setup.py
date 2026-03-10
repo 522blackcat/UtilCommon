@@ -26,7 +26,7 @@ setup(
     description='person unit client ',
 
     url=github_url,
-    packages=find_packages('../..', exclude=['tests*']),
+    packages=find_packages(exclude=['tests*']),
     python_requires='>=3.7, <4',
     install_requires=[
         'requests',
@@ -34,7 +34,7 @@ setup(
     ],
 
     author='Xiangdong Liang',
-    author_email='xiangdong_liang@apple.com',
+    author_email='522blackcat@gmail.com',
 
     keywords='until security',
     test_suite='pytest'
