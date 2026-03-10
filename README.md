@@ -6,11 +6,6 @@ This is a template repository that can be be used to generate new repositories w
 Please report all features, bugs, and improvement to rdar://component/issues.
 
 
-## Prerequisite
-
-1. https://docs.aci.apple.com/artifactory/pypi.html#using-pypi-apple-com
-
-
 ## Get Started
 1. change version number in `VERSION` or add env params `BASE_VERSION`
 2. append install_requires list in `setup.py` (if has)
