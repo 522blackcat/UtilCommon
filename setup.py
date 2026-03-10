@@ -36,6 +36,6 @@ setup(
     author='Xiangdong Liang',
     author_email='xiangdong_liang@apple.com',
 
-    keywords='dmp email security',
+    keywords='until security',
     test_suite='pytest'
 )
